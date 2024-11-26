@@ -23,4 +23,6 @@ Validam oque acontece após a integração. Ele valida o fluxo do usuário e oqu
 
 ## Testes Unitários
 
-Este tipo de teste faz a validação do ponto de vista do cliente não importando a implementação. Validam o comportamento do seu código sem depender de iteração externa. Eles são utilizados para testar funções individuais , diferente do teste E2E que testa o fluxo completo.
+Este tipo de teste faz a validação do ponto de vista do cliente não importando a implementação. Validam o comportamento do seu código sem depender de iteração externa. Ele parte da premissa que a interação externa funciona. seja ela api , banco de dados, 
+arquivos externos.
+Eles são utilizados para testar funções individuais , diferente do teste E2E que testa o fluxo completo.

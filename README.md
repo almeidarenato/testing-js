@@ -1,5 +1,7 @@
 # Testes
 
+Aqui listo  os tipos de testes mais comuns utilizados
+
 ## Testes de Integração
 
 Este tipo de teste validam componentes isolados
